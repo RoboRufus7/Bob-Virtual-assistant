@@ -1,0 +1,1 @@
+Hello! Bob is based of a robot toy i used to have. to begin the story, just run the py file. you will need to have installed time and colorama extensions to use the program. this is version beta 0.1, so it doesent have much in it.
